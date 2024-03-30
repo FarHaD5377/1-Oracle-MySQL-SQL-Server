@@ -6,19 +6,6 @@
     <title> Oracle، MySQL و SQL Serverمقایسه  پایگاه داده های</title>
  <h2 dir="rtl">نام و نام خانوادگی: فرهاد بانویی</h2>
  اh
-    <style>
-        table {
-            border-collapse: collapse;
-            width: 100%;
-        }
-        th, td {
-            border: 1px solid #ddd;
-            padding: 8px;
-        }
-        th {
-            text-align: center;
-        }
-    </style>
 </head>
 <body>
     <h1>مقایسه دقیق پایگاه داده های Oracle، MySQL و SQL Server</h1>
