@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Oracle، MySQL و SQL Serverمقایسه  پایگاه داده های</title>
+ 
  <h2 dir="rtl">نام و نام خانوادگی: فرهاد بانویی</h2>
  اh
 </head>
 <body>
-    <h1>مقایسه دقیق پایگاه داده های Oracle، MySQL و SQL Server</h1>
+    <h1>مقایسه پایگاه داده های Oracle، MySQL و SQL Server</h1>
     <h2>ویژگی</h2>
     <table id="features">
         <tr>
